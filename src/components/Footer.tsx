@@ -13,7 +13,7 @@ const Footer: React.FC = () => {
               <span className="ml-2 text-xl font-bold">Shanmukh Estates Hub</span>
             </div>
             <p className="text-gray-400 mb-4">
-              Premium real estate solutions for discerning clients. Building dreams since 2010.
+              Premium real estate solutions for discerning clients. Building dreams since 2025.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">

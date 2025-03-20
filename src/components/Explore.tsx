@@ -27,7 +27,7 @@ const Explore: React.FC = () => {
             className="bg-white p-6 rounded-xl shadow-lg"
           >
             <div className="flex items-center mb-4">
-              <ChartBar className="h-8 w-8 text-indigo-600" />
+              <BarChart className="h-8 w-8 text-indigo-600" />
               <h3 className="ml-3 text-xl font-semibold text-gray-900">Market Insights</h3>
             </div>
             <p className="text-gray-600 mb-4">
